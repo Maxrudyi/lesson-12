@@ -1,0 +1,16 @@
+<svg id="Группа_2" data-name="Группа 2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #23ae92;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="box" class="cls-1" width="16" height="16"/>
+  <path id="check" class="cls-2" d="M273.781,353.094v1.848l3.878,2.168,4.52-5.127v-1.894l-1.1,0-3.734,4.69-2.377-1.684Z" transform="translate(-270 -345)"/>
+</svg>
