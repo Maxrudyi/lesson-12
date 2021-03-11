@@ -269,7 +269,7 @@
 
 /* third page */
 
-.third-page {
+.blog-section {
     background-color: #b07cf7;
     width: 100%;
     height: 864px;
@@ -456,7 +456,7 @@
 /* Page four */
 
 
-.four-page {
+.contact-section {
     background-image: url(../Img/background-3.png);
     background-repeat: no-repeat;
     background-position: center;
